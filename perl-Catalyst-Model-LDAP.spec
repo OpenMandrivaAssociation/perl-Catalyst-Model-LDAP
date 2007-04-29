@@ -46,7 +46,6 @@ rm -rf %{buildroot}
 
 %files
 %defattr(-,root,root)
-%doc README Changes
 %{perl_vendorlib}/%{modprefix}
 %{_mandir}/*/*
 

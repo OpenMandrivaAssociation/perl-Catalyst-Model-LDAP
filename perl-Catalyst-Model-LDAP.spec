@@ -2,8 +2,8 @@
 %define name	perl-%{realname}
 %define	modprefix Catalyst
 
-%define version	0.14
-%define release	%mkrel 3
+%define version	0.15
+%define release	%mkrel 1
 
 Summary:	Catalyst LDAP Model Class
 Name:		%{name}

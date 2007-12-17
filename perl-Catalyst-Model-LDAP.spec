@@ -24,7 +24,6 @@ BuildRequires:	perl(Net::LDAP::Constant)
 BuildRequires:	perl(NEXT)
 BuildRequires:	perl(Test::More)
 BuildArch:	noarch
-Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 This is the Net::LDAP model class for Catalyst. It is nothing more than a

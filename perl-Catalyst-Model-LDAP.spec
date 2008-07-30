@@ -3,7 +3,7 @@
 %define	modprefix Catalyst
 
 %define version	0.16
-%define release	%mkrel 1
+%define release	%mkrel 3
 
 Summary:	Catalyst LDAP Model Class
 Name:		%{name}
